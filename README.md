@@ -45,9 +45,9 @@
       height="40" /> </a> </p>
     
 <h3>Statistical Data :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idilbls&show_icons=true&locale=en&theme=omni"
+<p><img align="center" style="width:338px" src="https://github-readme-stats.vercel.app/api?username=idilbls&show_icons=true&locale=en&theme=omni"
     alt="idilbls" />
-<img align="center" style="width:450px; height:197px;"
+<img align="center" style="width:285px; height:197px;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=idilbls&show_icons=true&locale=en&layout=compact&theme=omni"
     alt="idilbls" /></p>
 <div  align="center"> <img src="https://github.com/idilbls/idilbls/blob/output/github-contribution-grid-snake.svg" /></div>
